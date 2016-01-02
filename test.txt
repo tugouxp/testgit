@@ -1,5 +1,14 @@
 test
 test2
+<<<<<<< HEAD
+test6
+test7
+=======
 test3
 test4
+<<<<<<< HEAD
 afadff
+=======
+>>>>>>> 4a402950a6999f9be7a6a9b29c406aac1c46624c
+afdafsf
+>>>>>>> 01c3f5f0d0d266ac9e088913ccaa900d674f848d
