@@ -1,10 +1,1 @@
-test
-test2
-<<<<<<< HEAD
-test6
-test7
-=======
-test3
-test4
->>>>>>> 4a402950a6999f9be7a6a9b29c406aac1c46624c
-afdafsf
+change in testgit
