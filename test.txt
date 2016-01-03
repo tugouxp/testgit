@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 change in testgit
+=======
+change in clone
+>>>>>>> 6937dc32fe36f79dcf117712b213e17f4e7d5d84
